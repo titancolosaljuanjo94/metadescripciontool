@@ -1,0 +1,6 @@
+openai>=1.40.0
+pypdf>=4.2.0
+pandas>=2.2.2
+python-slugify>=8.0.4
+tqdm>=4.66.4
+streamlit>=1.36.0
